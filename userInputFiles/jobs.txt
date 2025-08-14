@@ -1,0 +1,10 @@
+Assassination|2
+Data Theft|1
+Data Deposit/Alteration|-1
+Kidnapping|3
+Casing|-2
+Bribery|-1
+Plant Evidence|1
+Rescue|3
+Steal Prototype|1
+Sabotage|0

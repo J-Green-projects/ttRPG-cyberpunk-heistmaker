@@ -1,0 +1,7 @@
+These two programs are designed to automatically generate jobs for player characters in a cyberpunk dystopian future.
+cyberpunkHeistGen.py generates heists for would-be antiheroic theives and assassins.
+cyberpunkMercContractGen.py generates contracts for the security corporations that oppose those antiheroes.
+
+These programs are paired, the idea being that they represent two sides of the same coin, even using the same input data.
+However, since they perform different operations, your mileage may vary when going outside of suggested ranges for values.
+The programs have separate README files since it is unlikely for one GM to need both.

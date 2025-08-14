@@ -1,0 +1,3 @@
+Sensors|Cameras,RADAR,ECM Detector,Proximity Sensor,Seismic Sensor|5,1,1,1,1
+Traps|Laser Fence,Locks,Turrets,ICE|1,1,1,1
+Guards|Guard Count,Kit,Skill|1,1,1
